@@ -2,7 +2,7 @@
 
 #define _CRT_SECURE_NO_WARNINGS1
 #include<stdio.h>
-int main() {
+int main() {12
 }
 
 // 이름: 황민승
