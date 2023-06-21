@@ -1,6 +1,6 @@
 1Hwnag min seung, Hankuk University of Foreign Studies
 
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS1
 #include<stdio.h>
 int main() {
 }
